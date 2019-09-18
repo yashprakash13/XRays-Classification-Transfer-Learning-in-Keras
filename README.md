@@ -14,3 +14,7 @@ The dataset used for training has been taken from this kaggle link: https://www.
 Obtained :
 * Tranining acc : ~91%
 * Validation acc: ~80 %
+
+### Some Prediction Visualisations
+![](https://github.com/yashprakash13/XRays-Classification-Transfer-Learning-in-Keras/blob/master/out1.png)  ![](https://github.com/yashprakash13/XRays-Classification-Transfer-Learning-in-Keras/blob/master/out2.png)
+![](https://github.com/yashprakash13/XRays-Classification-Transfer-Learning-in-Keras/blob/master/out3.png)
