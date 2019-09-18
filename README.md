@@ -1,4 +1,4 @@
-## XRay classification with Transfer Learning in Keras
+## X-Ray classification with Transfer Learning in Keras
 
 This is the Keras model for classification of Chest X-Rays into either of the two categories:
 * Normal or 
